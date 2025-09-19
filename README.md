@@ -6,7 +6,7 @@
 
 <h1>osTicket Installation Tutorial</h1>
 
-<!-- Step 1 -->
+<-- Step 1 -->
 <h2>Create Azure Virtual Machine</h2>
 <p>Create Windows 10 VM (4 vCPUs)</p>
 <img src="./images/part1-step1.png" alt="Azure VM Creation" width="80%">
