@@ -15,6 +15,12 @@
 <h1>osTicket Installation Tutorial</h1>
 
 <h2>Step 1. Create Azure Virtual Machine</h2>
+<p>Log into or Create a Microsoft Azure account, 
+then head over to the Virtual Machine tab and create a new RESOURCE GROUP and name it a title of our project, 
+along with our name of our VM we will be utiliziing in this practice simulator.Set the region nearest to you 
+and we will be Using Windows 10 OS as our Image for our VM. The size well be going with will be 4vCPUs 16 Gib Memory will be plenty for our VM.
+Go ahead and make a username and Password for our login connection to this Virtual Machine of ours that we will be using RDP to connect from our personal computer.
+Lastly check mark the Licensing box to confirm the hosting rights.<p>
 <p>Create Windows 10 VM (4 vCPUs).</p>
 <p>VM Name: osticket-vm</p>
 <p>Username/Password: labuser / osTicketPassword1!</p>
