@@ -8,13 +8,13 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>osTicket Installation Tutorial</title>
+
 </head>
 <body>
 
 <h1>osTicket Installation Tutorial</h1>
 
-<!-- Step 1 -->
+-- Step 1 --
 <h2>Create Azure Virtual Machine</h2>
 <p>Create Windows 10 VM (4 vCPUs).</p>
 <p>VM Name: osticket-vm</p>
@@ -22,7 +22,7 @@
 <p>Log in via Remote Desktop.</p>
 <p><!-- Add description/commentary for Step 1 photos here --></p>
 
-<!-- Step 2 -->
+-- Step 2 --
 <h2>Prepare Installation Files</h2>
 <p>Download osTicket-Installation-Files.zip to VM desktop.</p>
 <p>Unzip folder to osTicket-Installation-Files.</p>
