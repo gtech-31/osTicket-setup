@@ -20,7 +20,9 @@ then head over to the Virtual Machine tab and create a new RESOURCE GROUP and na
 along with our name of our VM we will be utiliziing in this practice simulator.Set the region nearest to you 
 and we will be Using Windows 10 OS as our Image for our VM. The size well be going with will be 4vCPUs 16 Gib Memory will be plenty for our VM.
 Go ahead and make a username and Password for our login connection to this Virtual Machine of ours that we will be using RDP to connect from our personal computer.
-Lastly check mark the Licensing box to confirm the hosting rights.<p>
+Then check mark the Licensing box to confirm the hosting rights. Give it a second and at the bottom left go ahead and click <b>Review and Create</b> to finally complete our VM. 
+After our VM is created now we can go back into the Virtual Machine tab and see we have our Machine here under the staus as "<b>'RUNNING'</b> meaning its up and ready for use. 
+Now we must grab the VMs Public IP Address shown here to the right side of the screen or you can manually check by clicking into the VM "osTicket" for the same and further details<p>
 <p>Create Windows 10 VM (4 vCPUs).</p>
 <p>VM Name: osticket-vm</p>
 <p>Username/Password: labuser / osTicketPassword1!</p>
