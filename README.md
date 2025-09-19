@@ -16,9 +16,9 @@
 
 <h2>Step 1. Create Azure Virtual Machine</h2>
 <p>Log into or Create a <b>Microsoft Azure</b> account, 
-then head over to the <b>Virtual Machine</b> tab and create a new <b>RESOURCE GROUP</b> and name it a title of our project, 
+then head over to the <b>VIRTUAL MACHINE</b> tab and create a new <b>RESOURCE GROUP</b> and name it a title of our project, 
 along with our name of our VM we will be utiliziing in this practice simulator.Set the region nearest to you 
-and we will be Using Windows 10 OS as our Image for our VM. The size well be going with will be 4vCPUs 16 Gib Memory will be plenty for our VM.
+and we will be Using <b>WINDOWS 10 OS</b> as our Image for our VM. The size well be going with will be <b>4vCPUs 16 Gib Memory</b> for our VM.
 Go ahead and make a username and Password for our login connection to this Virtual Machine of ours that we will be using RDP to connect from our personal computer.
 Then check mark the Licensing box to confirm the hosting rights. Give it a second and at the bottom left go ahead and click <b>Review and Create</b> to finally complete our VM. 
 After our VM is created now we can go back into the Virtual Machine tab and see we have our Machine here under the staus as "<b>'RUNNING'</b> meaning its up and ready for use. 
