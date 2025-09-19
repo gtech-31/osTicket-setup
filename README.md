@@ -23,8 +23,7 @@
 
 
 
--- Step 2 --
-<h2>Prepare Installation Files</h2>
+<h2>-- Step 2 -- Prepare Installation Files</h2>
 <p>Download osTicket-Installation-Files.zip to VM desktop.</p>
 <p>Unzip folder to osTicket-Installation-Files.</p>
 <p><!-- Add description/commentary for Step 2 photos here --></p>
