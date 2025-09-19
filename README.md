@@ -23,7 +23,13 @@ Go ahead and make a username and Password for our login connection to this Virtu
 Then check mark the Licensing box to confirm the hosting rights. Give it a second and at the bottom left go ahead and click <b>Review and Create</b> to finally complete our VM. 
 After our VM is created now we can go back into the Virtual Machine tab and see we have our Machine here under the staus as "<b>'RUNNING'</b> meaning its up and ready for use. 
 Now we must grab the VMs Public IP Address shown here to the right side of the screen or you can manually check by clicking into the VM "osTicket" for the same and further details<p>
-
+<p>
+-Create an Azure Virtual Machine Windows 10, 4 vCPUs
+-Name: osticket-vm
+-Username: labuser
+-Password: Password1!
+-Log into the VM with Remote Desktop
+</p>
 
 <h2>Step 2. Prepare Installation Files</h2>
 <p>Download osTicket-Installation-Files.zip to VM desktop.</p>
