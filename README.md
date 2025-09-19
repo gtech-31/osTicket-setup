@@ -14,8 +14,7 @@
 
 <h1>osTicket Installation Tutorial</h1>
 
--- Step 1 -- 
-<h2>Create Azure Virtual Machine</h2>
+<h2>Step 1. Create Azure Virtual Machine</h2>
 <p>Create Windows 10 VM (4 vCPUs).</p>
 <p>VM Name: osticket-vm</p>
 <p>Username/Password: labuser / osTicketPassword1!</p>
