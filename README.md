@@ -54,7 +54,7 @@
 
 
 
-<h2Step 6. Install MySQL</h2>
+<h2>Step 6. Install MySQL</h2>
 <p>Run mysql-5.5.62-win32.msi.</p>
 <p>Typical setup → Launch Configuration Wizard → Standard Configuration.</p>
 <p>Root username/password: root/root.</p>
