@@ -25,6 +25,7 @@ After our VM is created now we can go back into the Virtual Machine tab and see 
 Now we must grab the VMs Public IP Address shown here to the right side of the screen or you can manually check by clicking into the VM "osTicket" for the same and further details<p>
 <ul>
 <li>Create an Azure Virtual Machine Windows 10, 4 vCPUs</li>
+<li>Reasource Group name: osTicket-vm-rg</li>
 <li>VM Name: osticket-vm</li>
 <li>Username: labuser</li>
 <li>Password: Password1!</li>
