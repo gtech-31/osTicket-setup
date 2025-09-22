@@ -15,6 +15,11 @@
 <h1>osTicket Installation Tutorial</h1>
 
 <h2>Step 1. Create Azure Virtual Machine</h2>
+<p align="center">
+  <img src="images/photo1.png" width="200"/>
+  <img src="images/photo2.png" width="200"/>
+  <img src="images/photo3.png" width="200"/>
+</p>
 <p>Log into or Create a <b>Microsoft Azure</b> account, 
 then head over to the <b>VIRTUAL MACHINE</b> tab and create a new <b>RESOURCE GROUP</b> and name it a title of our project, 
 along with our name of our VM we will be utiliziing in this practice simulator.Set the region nearest to you 
