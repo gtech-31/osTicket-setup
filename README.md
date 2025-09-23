@@ -38,8 +38,10 @@
   <img src="Images/canvas (6).png" width="200"/>
   <img src="Images/canvas (7).png" width="200"/>
 </p></p>
-
-
+<ul>
+<li>Download osTicket-Installation-Files.zip inside the VM we created "osticket-vm".</li>
+<li>Unzip the downloaded folder onto our desktop</li>
+</ul>
 
 
 <h2>Step 3. Install IIS with CGI</h2>
