@@ -20,14 +20,7 @@
   <img src="Images/canvas (3).png" width="200"/>
   <img src="Images/canvas (5).png" width="200"/>
 </p>
-<p>Log into or Create a <b>Microsoft Azure</b> account, 
-then head over to the <b>VIRTUAL MACHINE</b> tab and create a new <b>RESOURCE GROUP</b> and name it a title of our project, 
-along with our name of our VM we will be utiliziing in this practice simulator.Set the region nearest to you 
-and we will be Using <b>WINDOWS 10 OS</b> as our Image for our VM. The size well be going with will be <b>4vCPUs 16 Gib Memory</b> for our VM.
-Go ahead and make a username and Password for our login connection to this Virtual Machine of ours that we will be using RDP to connect from our personal computer.
-Then check mark the Licensing box to confirm the hosting rights. Give it a second and at the bottom left go ahead and click <b>Review and Create</b> to finally complete our VM. 
-After our VM is created now we can go back into the Virtual Machine tab and see we have our Machine here under the staus as "<b>'RUNNING'</b> meaning its up and ready for use. 
-Now we must grab the VMs Public IP Address shown here to the right side of the screen or you can manually check by clicking into the VM "osTicket" for the same and further details<p>
+<p>First, log into or create a Microsoft Azure account, then navigate to the Virtual Machines tab and create a new Resource Group named after your project. Create a Windows 10 VM named osticket-vm, set the size to 4 vCPUs / 16 GiB memory, and configure a username (labuser) and password (osTicketPassword1!) for RDP access. Check the licensing box, then click Review + Create to deploy the VM. Once created, confirm it is running under the Virtual Machines tab, and copy its Public IP Address for the RDP connection. Using Remote Desktop, log into the VM with the credentials you set, then download the osTicket-Installation-Files.zip inside the VM and unzip it to your desktop. The extracted folder, osTicket-Installation-Files, will be used for installing osTicket and its dependencies.<p>
 <ul>
 <li>Create an Azure Virtual Machine Windows 10, 4 vCPUs</li>
 <li>Reasource Group name: osTicket-vm-rg</li>
