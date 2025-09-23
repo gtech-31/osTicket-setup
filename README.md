@@ -16,9 +16,9 @@
 
 <h2>Step 1. Create Azure Virtual Machine</h2>
 <p align="center">
-  <img src="images/photo1.png" width="200"/>
-  <img src="images/photo2.png" width="200"/>
-  <img src="images/photo3.png" width="200"/>
+  <img src="images/canvas (3).png" width="200"/>
+  <img src="images/canvas (4).png" width="200"/>
+  <img src="images/canvas (5).png" width="200"/>
 </p>
 <p>Log into or Create a <b>Microsoft Azure</b> account, 
 then head over to the <b>VIRTUAL MACHINE</b> tab and create a new <b>RESOURCE GROUP</b> and name it a title of our project, 
