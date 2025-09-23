@@ -93,10 +93,20 @@
 
 
 <h2>Step 6. Install MySQL</h2>
-<p>Run mysql-5.5.62-win32.msi.</p>
-<p>Typical setup → Launch Configuration Wizard → Standard Configuration.</p>
-<p>Root username/password: root/root.</p>
-<p><!-- Add description/commentary for Step 6 photos here --></p>
+<p></p>
+<p align="center">
+  <img src="Images/canvas (21).png" width="200"/>
+  <img src="Images/canvas (22).png" width="200"/>
+  <img src="Images/canvas (23).png" width="200"/>
+  <img src="Images/canvas (24).png" width="200"/>
+  <img src="Images/canvas (25).png" width="200"/>
+</p>
+
+<ul>
+<li>Run mysql-5.5.62-win32.msi.</li>
+<li>Typical setup → Launch Configuration Wizard → Standard Configuration.</li>
+<li>Root username/password: root/root.</li>
+</ul>
 
 
 
