@@ -48,7 +48,12 @@
 <p>Open “Add Roles and Features.”</p>
 <p>Enable IIS → World Wide Web Services → Application Development Features → CGI.</p>
 <p><!-- Add description/commentary for Step 3 photos here --></p>
-
+<p align="center">
+  <img src="Images/canvas (8).png" width="200"/>
+  <img src="Images/canvas (9).png" width="200"/>
+  <img src="Images/canvas (10).png" width="200"/>
+  <img src="Images/canvas (11).png" width="200"/>
+</p>
 
 
 
