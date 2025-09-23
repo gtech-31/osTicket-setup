@@ -120,6 +120,7 @@
   <img src="Images/canvas (28).png" width="200"/>
   <img src="Images/canvas (29).png" width="200"/>
   <img src="Images/canvas (30).png" width="200"/>
+  <img src="Images/canvas (32).png" width="200"/>
 </p>
 <ul>
 <li>Open IIS as Admin.</li>
@@ -131,6 +132,13 @@
 
 
 <h2>Step 8. Install osTicket</h2>
+<p align="center">
+  <img src="Images/canvas (33).png" width="200"/>
+  <img src="Images/canvas (34).png" width="200"/>
+  <img src="Images/canvas (35).png" width="200"/>
+  <img src="Images/canvas (36).png" width="200"/>
+  <img src="Images/canvas (37).png" width="200"/>
+</p>
 <p>Unzip osTicket-v1.15.8.zip → copy upload to C:\inetpub\wwwroot.</p>
 <p>Rename folder: upload → osTicket.</p>
 <p>Reload IIS.</p>
