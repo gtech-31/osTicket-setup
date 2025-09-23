@@ -31,10 +31,13 @@
 </ul>
 
 <h2>Step 2. Prepare Installation Files</h2>
-<p>Download osTicket-Installation-Files.zip to VM desktop.</p>
-<p>Instlattions Files = https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD </p>
+<p>Download osTicket-Installation-Files.zip inside the VM desktop.Copy the link below then paste into google inside the VM.</p>
+<p>All OsTicket Insallation Files = https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD </p>
 <p>Unzip folder to osTicket-Installation-Files.</p>
-<p><!-- Add description/commentary for Step 2 photos here --></p>
+<p><p align="center">
+  <img src="Images/canvas (6).png" width="200"/>
+  <img src="Images/canvas (7).png" width="200"/>
+</p></p>
 
 
 
