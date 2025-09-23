@@ -93,7 +93,7 @@
 
 
 <h2>Step 6. Install MySQL</h2>
-<p>Begin by running the installer and launch the MySQL Instance Configuration Wizard after finished downlaoding and choose Standard Configuration, and set the default credentials with the username root and password root to complete the setup.</p>
+<p>Begin by running the installer (mysql-5.5.62-win32.) and launch the MySQL Instance Configuration Wizard after finished downlaoding and choose Standard Configuration, and set the default credentials with the username root and password root to complete the setup.</p>
 <p align="center">
   <img src="Images/canvas (21).png" width="200"/>
   <img src="Images/canvas (22).png" width="200"/>
