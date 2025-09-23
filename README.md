@@ -49,8 +49,7 @@
 <h2>Step 3. Install IIS with CGI</h2>
 <p>Open “Add Roles and Features.”</p>
 <p>Enable IIS → World Wide Web Services → Application Development Features → CGI.</p>
-<p><!-- Add description/commentary for Step 3 photos here --></p>
-<p align="center">
+<p><p>Inside the VM, install and enable Internet Information Services (IIS) on Windows, which will act as the web server for osTicket. To do this, open Windows Features and navigate to World Wide Web Services → Application Development Features, then check CGI. Make sure to also check all the required boxes needed to fully install IIS, including the basic Web Server, Common HTTP Features, Security, Performance Features, and Management Tools. IIS will allow your VM to host and serve web applications like osTicket, and handle incoming HTTP requests, essentially turning your VM into a functioning web server.</p>
   <img src="Images/canvas (8).png" width="200"/>
   <img src="Images/canvas (9).png" width="200"/>
   <img src="Images/canvas (10).png" width="200"/>
