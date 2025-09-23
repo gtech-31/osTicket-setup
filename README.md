@@ -87,7 +87,7 @@
 <ul>
 <li>Create new folder in our (C) Drive as showed here.  C:\PHP.</li>
 <li>Unzip php-7.3.8-nts-Win32-VC15-x86.zip into C:\PHP.</li>
-<li>Install VC_redist.x86.exe.</li>
+<li>Install VC_redist.x86.exe. and agree with Licensce Agreement to proceed.</li>
 </ul>
 
 
