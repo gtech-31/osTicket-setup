@@ -36,10 +36,10 @@
 <p>Download osTicket-Installation-Files.zip inside the VM desktop. Copy the link below then paste into google inside the VM.</p>
 <p>All OsTicket Installation Files = https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD </p>
 <p>Unzip folder osTicket-Installation-Files to desktop.</p>
-<p><p align="center">
+<p align="center">
   <img src="Images/canvas (6).png" width="200"/>
   <img src="Images/canvas (7).png" width="200"/>
-</p></p>
+</p>
 <ul>
 <li>Download osTicket-Installation-Files.zip inside the VM we created "osticket-vm".</li>
 <li>Unzip the downloaded folder onto our desktop</li>
@@ -65,7 +65,11 @@
 <h2>Step 4. Install PHP Manager and Rewrite Module</h2>
 <p>Run PHPManagerForIIS_V1.5.0.msi.</p>
 <p>Run rewrite_amd64_en-US.msi.</p>
-<p><!-- Add description/commentary for Step 4 photos here --></p>
+<p align="center">
+  <img src="Images/canvas (13).png" width="200"/>
+  <img src="Images/canvas (14).png" width="200"/>
+</p>
+<p>Open the Installation Files Folder on our desktop and go ahead and locate the first two installations we will be taking care of.</p>
 
 
 
