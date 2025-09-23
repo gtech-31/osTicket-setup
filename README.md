@@ -112,6 +112,13 @@
 
 
 <h2>Step 7. Configure IIS for PHP</h2>
+<p align="center">
+  <img src="Images/canvas (26).png" width="200"/>
+  <img src="Images/canvas (27).png" width="200"/>
+  <img src="Images/canvas (28).png" width="200"/>
+  <img src="Images/canvas (29).png" width="200"/>
+  <img src="Images/canvas (30).png" width="200"/>
+</p>
 <p>Open IIS as Admin.</p>
 <p>Register PHP: PHP Manager → C:\PHP\php-cgi.exe.</p>
 <p>Reload IIS (Stop → Start).</p>
