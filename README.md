@@ -29,6 +29,7 @@
 <li>Username: labuser</li>
 <li>Password: Password1!</li>
 <li>Log into the VM with Remote Desktop</li>
+  <li>My VM IP Address: 172.184.157.175 (Yours will be different)</li>
 </ul>
 
 <h2>Step 2. Prepare Installation Files</h2>
