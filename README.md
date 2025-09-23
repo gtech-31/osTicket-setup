@@ -77,10 +77,18 @@
 
 
 <h2>Step 5. Prepare PHP and Dependencies</h2>
-<p>Create folder C:\PHP.</p>
-<p>Unzip php-7.3.8-nts-Win32-VC15-x86.zip into C:\PHP.</p>
-<p>Install VC_redist.x86.exe.</p>
-<p><!-- Add description/commentary for Step 5 photos here --></p>
+<p>First, create a directory called C:\PHP on your VM. Next, go to the osTicket-Installation-Files folder and extract the PHP 7.3.8 zip file (php-7.3.8-nts-Win32-VC15-x86.zip) into the C:\PHP directory. After that, run VC_redist.x86.exe from the same folder to install the required Microsoft Visual C++ Redistributable, which is necessary for PHP to run properly on Windows.</p>
+<p align="center">
+  <img src="Images/canvas (15).png" width="200"/>
+  <img src="Images/canvas (16).png" width="200"/>
+  <img src="Images/canvas (17).png" width="200"/>
+  <img src="Images/canvas (18).png" width="200"/>
+</p>
+<ul>
+<li>Create new folder in our (C) Drive as showed here.  C:\PHP.</li>
+<li>Unzip php-7.3.8-nts-Win32-VC15-x86.zip into C:\PHP.</li>
+<li>Install VC_redist.x86.exe.</li>
+</ul>
 
 
 
