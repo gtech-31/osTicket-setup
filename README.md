@@ -121,10 +121,11 @@
   <img src="Images/canvas (29).png" width="200"/>
   <img src="Images/canvas (30).png" width="200"/>
 </p>
-<p>Open IIS as Admin.</p>
-<p>Register PHP: PHP Manager → C:\PHP\php-cgi.exe.</p>
-<p>Reload IIS (Stop → Start).</p>
-<p><!-- Add description/commentary for Step 7 photos here --></p>
+<ul>
+<li>Open IIS as Admin.</li>
+<li>Register PHP: PHP Manager → C:\PHP\php-cgi.exe.</li>
+<li>Reload IIS (Stop → Start).</li>
+</ul>
 
 
 
