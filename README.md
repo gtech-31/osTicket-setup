@@ -16,8 +16,8 @@
 
 <h2>Step 1. Create Azure Virtual Machine</h2>
 <p align="center">
-  <img src="Images/canvas (3).png" width="200"/>
   <img src="Images/canvas (4).png" width="200"/>
+  <img src="Images/canvas (3).png" width="200"/>
   <img src="Images/canvas (5).png" width="200"/>
 </p>
 <p>Log into or Create a <b>Microsoft Azure</b> account, 
