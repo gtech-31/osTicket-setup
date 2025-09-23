@@ -20,7 +20,6 @@
   <img src="Images/canvas (3).png" width="200"/>
   <img src="Images/canvas (5).png" width="200"/>
   <img src="Images/Screenshot (50).png" width="200"/>
-  <img src="Images/canvas.png" width="200"/>
 </p>
 <p>First, log into or create a Microsoft Azure account, then navigate to the Virtual Machines tab and create a new Resource Group named after your project. Create a Windows 10 VM named osticket-vm, set the size to 4 vCPUs / 16 GiB memory, and configure a username (labuser) and password (osTicketPassword1!) for RDP access. Check the licensing box, then click Review + Create to deploy the VM. Once created, confirm it is running under the Virtual Machines tab, and copy its Public IP Address for the RDP connection. Using Remote Desktop, log into the VM with the credentials you set, then download the osTicket-Installation-Files.zip inside the VM and unzip it to your desktop. The extracted folder, osTicket-Installation-Files, will be used for installing osTicket and its dependencies.<p>
 <ul>
