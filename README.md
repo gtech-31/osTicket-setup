@@ -56,7 +56,10 @@
   <img src="Images/canvas (10).png" width="200"/>
   <img src="Images/canvas (11).png" width="200"/>
 </p>
-
+<ul>
+<li>Enable Internet Information Services (IIS) and check all required boxes.</li>
+<li>Under Application Development Features, check CGI for PHP support.</li>
+</ul>
 
 
 <h2>Step 4. Install PHP Manager and Rewrite Module</h2>
