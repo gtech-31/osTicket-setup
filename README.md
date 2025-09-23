@@ -112,6 +112,8 @@
 
 
 <h2>Step 7. Configure IIS for PHP</h2>
+<p>Open IIS as an Administrator, then register PHP by pointing IIS to the PHP executable located at C:\PHP\php-cgi.exe through PHP Manager. Then go ahead and reload IIS by stopping and starting the server to apply the changes.</p>
+
 <p align="center">
   <img src="Images/canvas (26).png" width="200"/>
   <img src="Images/canvas (27).png" width="200"/>
