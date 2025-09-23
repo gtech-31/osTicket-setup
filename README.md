@@ -65,12 +65,15 @@
 <h2>Step 4. Install PHP Manager and Rewrite Module</h2>
 <p>Run PHPManagerForIIS_V1.5.0.msi.</p>
 <p>Run rewrite_amd64_en-US.msi.</p>
+<p>Open the Installation Files Folder on our desktop and go ahead and locate the first two installations we will be taking care of.</p>
 <p align="center">
   <img src="Images/canvas (13).png" width="200"/>
   <img src="Images/canvas (14).png" width="200"/>
 </p>
-<p>Open the Installation Files Folder on our desktop and go ahead and locate the first two installations we will be taking care of.</p>
-
+<ul>
+<li>Install and agree with Licensce Agreement to install "PHPManagerForIIS_V1.5.0.msi." file.</li>
+<li>Install and agree with Licensce Agreement for "rewrite_amd64_en-US.msi." file as well.</li>
+</ul>
 
 
 <h2>Step 5. Prepare PHP and Dependencies</h2>
