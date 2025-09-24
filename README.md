@@ -209,9 +209,9 @@
 <h2>Step 12. Final Browser Setup</h2>
 <p>To continue the osTicket setup in your browser, enter the MySQL database information by specifying the database name osTicket, the username root, and the password root. Once all fields are filled, click “Install Now!” to complete the database connection and finalize the installation process.</p>
 <p align="center">
-  <img src="Images/canvas (66).png" width="200"/>
-  <img src="Images/canvas (67).png" width="200"/>
   <img src="Images/canvas (68).png" width="200"/>
+  <img src="Images/canvas (67).png" width="200"/>
+  <img src="Images/canvas (66).png" width="200"/>
   <img src="Images/canvas (69).png" width="200"/>
   <img src="Images/canvas (70).png" width="200"/>
 </p>
