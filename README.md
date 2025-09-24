@@ -188,7 +188,7 @@
 </ul>
 
 <h2>Step 11. Setup Database with HeidiSQL</h2>
-<p>Locate the Continue button under the extensions and click Continue. Enter a name for your helpdesk and provide a default email address to receive customer messages. Then, from the osTicket-Installation-Files folder, install HeidiSQL. Open HeidiSQL, create a new session using the username and password root/root, connect to the session, and create a new database named osTicket to store the application’s data.</p>
+<p>*CRITICAL STEPS* Locate the Continue button under the extensions and click Continue. Enter a name for your helpdesk and provide a default email address to receive customer messages. Then, from the osTicket-Installation-Files folder, install HeidiSQL. Open HeidiSQL, create a new session using the username and password root/root, connect to the session, and create a new database named osTicket to store the application’s data.</p>
 <p align="center">
   <img src="Images/canvas (56).png" width="200"/>
   <img src="Images/canvas (57).png" width="200"/>
@@ -199,16 +199,15 @@
   <img src="Images/canvas (64).png" width="200"/>
   <img src="Images/canvas (65).png" width="200"/>
 </p>
-<p>Install and open HeidiSQL.</p>
-<p>Create new session → root/root → connect.</p>
-<p>Create database osTicket.</p>
-<p><!-- Add description/commentary for Step 11 photos here --></p>
-
-
+<ul>
+<li>Install and open HeidiSQL</li>
+<li>Create new session → root/root → connect</li>
+<li>Create database named osTicket</li>
+</ul>
 
 
 <h2>Step 12. Final Browser Setup</h2>
-<p></p>
+<p>To continue the osTicket setup in your browser, enter the MySQL database information by specifying the database name osTicket, the username root, and the password root. Once all fields are filled, click “Install Now!” to complete the database connection and finalize the installation process.</p>
 <p align="center">
   <img src="Images/canvas (66).png" width="200"/>
   <img src="Images/canvas (67).png" width="200"/>
@@ -231,9 +230,27 @@
   <img src="Images/canvas (74).png" width="200"/>
   <img src="Images/canvas (75).png" width="200"/>
 </p>
-<p>Access Helpdesk: http://localhost/osTicket/scp/login.php</p>
-<p>End users: http://localhost/osTicket/</p>
-<p><!-- Add description/commentary for Step 12 photos here --></p>
+<p>Here, users can submit new support tickets, check the status of existing tickets, and communicate with support staff.
+
+In a lab environment, osTicket allows you to practice several key tasks:
+
+Ticket Management: Create, update, assign, and close tickets to simulate real-world support workflows.
+
+User and Staff Setup: Add and manage different user roles, departments, and staff permissions.
+
+Email Integration: Test sending and receiving emails via the system to see how tickets are automatically created.
+
+Configuration and Customization: Experiment with templates, forms, and workflow rules to understand how changes affect ticket handling.
+
+Database Interaction: Use tools like HeidiSQL to view and manipulate the osTicket database, gaining hands-on experience with MySQL integration.</p>
+
+<ul>
+  <li>Browse to your help desk Admin login page: http://localhost/osTicket/scp/login.php
+</li>
+  <li>End Users osTicket URL:
+http://localhost/osTicket/ 
+</li>
+</ul>
 
 </body>
 </html>
