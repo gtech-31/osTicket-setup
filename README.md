@@ -186,11 +186,14 @@
 
 <h2>Step 11. Setup Database with HeidiSQL</h2>
 <p align="center">
-  <img src="Images/canvas (21).png" width="200"/>
-  <img src="Images/canvas (22).png" width="200"/>
-  <img src="Images/canvas (23).png" width="200"/>
-  <img src="Images/canvas (24).png" width="200"/>
-  <img src="Images/canvas (25).png" width="200"/>
+  <img src="Images/canvas (56).png" width="200"/>
+  <img src="Images/canvas (57).png" width="200"/>
+  <img src="Images/canvas (58).png" width="200"/>
+  <img src="Images/canvas (59).png" width="200"/>
+  <img src="Images/canvas (61).png" width="200"/>
+  <img src="Images/canvas (62).png" width="200"/>
+  <img src="Images/canvas (64).png" width="200"/>
+  <img src="Images/canvas (65).png" width="200"/>
 </p>
 <p>Install and open HeidiSQL.</p>
 <p>Create new session → root/root → connect.</p>
@@ -202,11 +205,11 @@
 
 <h2>Step 12. Final Browser Setup</h2>
 <p align="center">
-  <img src="Images/canvas (21).png" width="200"/>
-  <img src="Images/canvas (22).png" width="200"/>
-  <img src="Images/canvas (23).png" width="200"/>
-  <img src="Images/canvas (24).png" width="200"/>
-  <img src="Images/canvas (25).png" width="200"/>
+  <img src="Images/canvas (66).png" width="200"/>
+  <img src="Images/canvas (67).png" width="200"/>
+  <img src="Images/canvas (68).png" width="200"/>
+  <img src="Images/canvas (69).png" width="200"/>
+  <img src="Images/canvas (70).png" width="200"/>
 </p>
 <p>Input database details in osTicket installer:</p>
 <ul>
@@ -216,6 +219,13 @@
 </ul>
 
 <p>Complete installation.</p>
+  <p align="center">
+  <img src="Images/canvas (71).png" width="200"/>
+  <img src="Images/canvas (72).png" width="200"/>
+  <img src="Images/canvas (73).png" width="200"/>
+  <img src="Images/canvas (74).png" width="200"/>
+  <img src="Images/canvas (75).png" width="200"/>
+</p>
 <p>Access Helpdesk: http://localhost/osTicket/scp/login.php</p>
 <p>End users: http://localhost/osTicket/</p>
 <p><!-- Add description/commentary for Step 12 photos here --></p>
