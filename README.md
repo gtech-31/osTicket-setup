@@ -132,6 +132,7 @@
 
 
 <h2>Step 8. Install osTicket</h2>
+<p>Unzip osTicket-v1.15.8.zip file located in the osTicket-Installation-Files folder. After extracting, copy the upload folder into the directory C:\inetpub\wwwroot. Once copied, rename the upload folder to "osTicket" *IMPORTANT NOTE* Make sure 'osTicket' is written exactly the same way as shown for IIS can recognize it as the application directory. Finally, reload IIS by opening it and performing a stop and start of the server to apply the changes and prepare osTicket for configuration.</p>
 <p align="center">
   <img src="Images/canvas (33).png" width="200"/>
   <img src="Images/canvas (34).png" width="200"/>
@@ -139,10 +140,11 @@
   <img src="Images/canvas (36).png" width="200"/>
   <img src="Images/canvas (37).png" width="200"/>
 </p>
-<p>Unzip osTicket-v1.15.8.zip → copy upload to C:\inetpub\wwwroot.</p>
-<p>Rename folder: upload → osTicket.</p>
-<p>Reload IIS.</p>
-<p><!-- Add description/commentary for Step 8 photos here --></p>
+<ul>
+<li>Unzip osTicket-v1.15.8.zip → copy upload to C:\inetpub\wwwroot</li>
+<li>Rename folder: upload → osTicket</li>
+<li>Reload IIS (Stop → Start).</li>
+</ul>
 
 
 <h2>Step 9. Enable PHP Extensions</h2>
