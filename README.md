@@ -188,7 +188,7 @@
 </ul>
 
 <h2>Step 11. Setup Database with HeidiSQL</h2>
-<p></p>
+<p>Locate the Continue button under the extensions and click Continue. Enter a name for your helpdesk and provide a default email address to receive customer messages. Then, from the osTicket-Installation-Files folder, install HeidiSQL. Open HeidiSQL, create a new session using the username and password root/root, connect to the session, and create a new database named osTicket to store the application’s data.</p>
 <p align="center">
   <img src="Images/canvas (56).png" width="200"/>
   <img src="Images/canvas (57).png" width="200"/>
