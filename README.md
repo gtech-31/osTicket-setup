@@ -132,7 +132,7 @@
 
 
 <h2>Step 8. Install osTicket</h2>
-<p>Unzip osTicket-v1.15.8.zip file located in the osTicket-Installation-Files folder. After extracting, copy the upload folder into the directory C:\inetpub\wwwroot. Once copied, rename the upload folder to "osTicket" *IMPORTANT NOTE* Make sure 'osTicket' is written exactly the same way as shown for IIS can recognize it as the application directory. Finally, reload IIS by opening it and performing a stop and start of the server to apply the changes and prepare osTicket for configuration.</p>
+<p>*CRITICAL STEPS* Unzip osTicket-v1.15.8.zip file located in the osTicket-Installation-Files folder. After extracting, copy the upload folder into the directory C:\inetpub\wwwroot. Once copied, rename the upload folder to "osTicket" *IMPORTANT NOTE* Make sure 'osTicket' is written exactly the same way as shown for IIS can recognize it as the application directory. Finally, reload IIS by opening it and performing a stop and start of the server to apply the changes and prepare osTicket for configuration.</p>
 <p align="center">
   <img src="Images/canvas (33).png" width="200"/>
   <img src="Images/canvas (34).png" width="200"/>
@@ -166,7 +166,7 @@
 
 
 <h2>Step 10. Configure osTicket</h2>
-<p>Now that the extensions are enabled, configure osTicket by going to this designated path in the C drive to C:\inetpub\wwwroot\osTicket\include\ and rename the file ost-sampleconfig.php to ost-config.php so that osTicket recognizes it as the active configuration. Next, set file permissions by right-clicking ost-config.php, going to Properties → Security → Advanced, disabling inheritance, and removing all inherited permissions. Then, add a new permission for Everyone with full control to ensure IIS and PHP can properly access and modify the configuration file. </p>
+<p>*CRITICAL STEPS* Now that the extensions are enabled, configure osTicket by going to this designated path in the C drive to C:\inetpub\wwwroot\osTicket\include\ and rename the file ost-sampleconfig.php to ost-config.php so that osTicket recognizes it as the active configuration. Next, set file permissions by right-clicking ost-config.php, going to Properties → Security → Advanced, disabling inheritance, and removing all inherited permissions. Then, add a new permission for Everyone with full control to ensure IIS and PHP can properly access and modify the configuration file. </p>
 <p align="center">
   <img src="Images/canvas (44).png" width="200"/>
   <img src="Images/canvas (45).png" width="200"/>
