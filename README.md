@@ -166,6 +166,7 @@
 
 
 <h2>Step 10. Configure osTicket</h2>
+<p>Now that the extensions are enabled, configure osTicket by going to this designated path in the C drive to C:\inetpub\wwwroot\osTicket\include\ and rename the file ost-sampleconfig.php to ost-config.php so that osTicket recognizes it as the active configuration. Next, set file permissions by right-clicking ost-config.php, going to Properties → Security → Advanced, disabling inheritance, and removing all inherited permissions. Then, add a new permission for Everyone with full control to ensure IIS and PHP can properly access and modify the configuration file. </p>
 <p align="center">
   <img src="Images/canvas (44).png" width="200"/>
   <img src="Images/canvas (45).png" width="200"/>
@@ -180,15 +181,14 @@
   <img src="Images/canvas (54).png" width="200"/>
   <img src="Images/canvas (55).png" width="200"/>
 </p>
-<p>Rename ost-sampleconfig.php → ost-config.php.</p>
-<p>Assign permissions to ost-config.php (Everyone → All).</p>
-<p>Continue setup in browser (Helpdesk name, default email).</p>
-<p><!-- Add description/commentary for Step 10 photos here --></p>
-
-
-
+<ul>
+<li>Rename ost-sampleconfig.php → ost-config.php</li>
+<li>Assign permissions to ost-config.php (Everyone → All)</li>
+<li>Continue setup in browser (Helpdesk name, default email).</li>
+</ul>
 
 <h2>Step 11. Setup Database with HeidiSQL</h2>
+<p></p>
 <p align="center">
   <img src="Images/canvas (56).png" width="200"/>
   <img src="Images/canvas (57).png" width="200"/>
@@ -208,6 +208,7 @@
 
 
 <h2>Step 12. Final Browser Setup</h2>
+<p></p>
 <p align="center">
   <img src="Images/canvas (66).png" width="200"/>
   <img src="Images/canvas (67).png" width="200"/>
