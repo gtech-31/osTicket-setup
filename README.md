@@ -12,7 +12,7 @@
 </head>
 <body>
 
-<h1>osTicket Installation Tutorial</h1>
+<h1>osTicket Installation Tutorial</h1> <h1>Pictures go left to right for visual example.</h1>
 
 <h2>Step 1. Create Azure Virtual Machine</h2>
 <p align="center">
