@@ -148,7 +148,7 @@
 
 
 <h2>Step 9. Enable PHP Extensions</h2>
-<p>First, navigate in IIS to Sites → Default → osTicket, then on the right panel click *“Browse :80” to open the site in your browser. You may notice that some PHP extensions are not enabled. Go back to IIS, select Sites → Default → osTicket, and double-click PHP Manager. Click “Enable or disable an extension” and enable the following extensions: php_imap.dll, php_intl.dll, and php_opcache.dll.</p>
+<p>Navigate in IIS to Sites → Default → osTicket, then on the right panel click *“Browse :80” to open the site in your browser. You may notice that some PHP extensions are not enabled. Go back to IIS, select Sites → Default → osTicket, and double-click PHP Manager. Click “Enable or disable an extension” and enable the following extensions: php_imap.dll, php_intl.dll, and php_opcache.dll.</p>
 <p align="center">
   <img src="Images/canvas (38).png" width="200"/>
   <img src="Images/canvas (40).png" width="200"/>
