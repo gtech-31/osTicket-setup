@@ -230,19 +230,7 @@
   <img src="Images/canvas (74).png" width="200"/>
   <img src="Images/canvas (75).png" width="200"/>
 </p>
-<p>Here, users can submit new support tickets, check the status of existing tickets, and communicate with support staff.
-
-In a lab environment, osTicket allows you to practice several key tasks:
-
-Ticket Management: Create, update, assign, and close tickets to simulate real-world support workflows.
-
-User and Staff Setup: Add and manage different user roles, departments, and staff permissions.
-
-Email Integration: Test sending and receiving emails via the system to see how tickets are automatically created.
-
-Configuration and Customization: Experiment with templates, forms, and workflow rules to understand how changes affect ticket handling.
-
-Database Interaction: Use tools like HeidiSQL to view and manipulate the osTicket database, gaining hands-on experience with MySQL integration.</p>
+<p>In osTicket, users can submit tickets, track their status, and communicate with support staff, making it a critical tool for managing support workflows. In a lab environment, it allows hands-on practice with ticket management, user and staff setup, email integration, system configuration, and database interaction, providing valuable experience in real-world IT support processes and helping users understand how changes impact overall help desk operations.</p>
 
 <ul>
   <li>Browse to your help desk Admin login page: http://localhost/osTicket/scp/login.php
