@@ -146,14 +146,36 @@
 
 
 <h2>Step 9. Enable PHP Extensions</h2>
+<p align="center">
+  <img src="Images/canvas (39).png" width="200"/>
+  <img src="Images/canvas (38).png" width="200"/>
+  <img src="Images/canvas (40).png" width="200"/>
+  <img src="Images/canvas (41).png" width="200"/>
+  <img src="Images/canvas (42).png" width="200"/>
+  <img src="Images/canvas (43).png" width="200"/>
+</p>
 <p>Open IIS → Sites → Default → osTicket → PHP Manager.</p>
-<p>Enable extensions: php_imap.dll, php_intl.dll, php_opcache.dll.</p>
+<p>Enable extensions: php_imap.dll, php_intl.dll, php_opcache.dll</p>
 <p>Refresh osTicket in browser.</p>
 <p><!-- Add description/commentary for Step 9 photos here --></p>
 
 
 
 <h2>Step 10. Configure osTicket</h2>
+<p align="center">
+  <img src="Images/canvas (44).png" width="200"/>
+  <img src="Images/canvas (45).png" width="200"/>
+  <img src="Images/canvas (46).png" width="200"/>
+  <img src="Images/canvas (47).png" width="200"/>
+  <img src="Images/canvas (48).png" width="200"/>
+  <img src="Images/canvas (49).png" width="200"/>
+  <img src="Images/canvas (50).png" width="200"/>
+  <img src="Images/canvas (51).png" width="200"/>
+  <img src="Images/canvas (52).png" width="200"/>
+  <img src="Images/canvas (53).png" width="200"/>
+  <img src="Images/canvas (54).png" width="200"/>
+  <img src="Images/canvas (55).png" width="200"/>
+</p>
 <p>Rename ost-sampleconfig.php → ost-config.php.</p>
 <p>Assign permissions to ost-config.php (Everyone → All).</p>
 <p>Continue setup in browser (Helpdesk name, default email).</p>
@@ -163,6 +185,13 @@
 
 
 <h2>Step 11. Setup Database with HeidiSQL</h2>
+<p align="center">
+  <img src="Images/canvas (21).png" width="200"/>
+  <img src="Images/canvas (22).png" width="200"/>
+  <img src="Images/canvas (23).png" width="200"/>
+  <img src="Images/canvas (24).png" width="200"/>
+  <img src="Images/canvas (25).png" width="200"/>
+</p>
 <p>Install and open HeidiSQL.</p>
 <p>Create new session → root/root → connect.</p>
 <p>Create database osTicket.</p>
@@ -172,6 +201,13 @@
 
 
 <h2>Step 12. Final Browser Setup</h2>
+<p align="center">
+  <img src="Images/canvas (21).png" width="200"/>
+  <img src="Images/canvas (22).png" width="200"/>
+  <img src="Images/canvas (23).png" width="200"/>
+  <img src="Images/canvas (24).png" width="200"/>
+  <img src="Images/canvas (25).png" width="200"/>
+</p>
 <p>Input database details in osTicket installer:</p>
 <ul>
   <li>MySQL Database: osTicket</li>
