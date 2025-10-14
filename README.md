@@ -13,6 +13,7 @@
 <body>
 
 <h1>osTicket Installation Tutorial (Picture examples work left to right)</h1> 
+<h2>Today In this lab, we deploy and configure osTicket, an open-source help desk ticketing system, to simulate a real-world IT support environment. The tutorial walks through setting up a Windows Server virtual machine, installing IIS, PHP, and MySQL, and configuring osTicket for internal ticket management. Making a enviroment where you can learn how to create, assign, and resolve support tickets while exploring role-based access control, email piping, and automation features.</h2>
 
 <h2>Step 1. Create Azure Virtual Machine</h2>
 <p>First, log into or create a Microsoft Azure account, then navigate to the Virtual Machines tab and create a new Resource Group named after your project. Create a Windows 10 VM named osticket-vm, set the size to 4 vCPUs / 16 GiB memory, and configure a username (labuser) and password (osTicketPassword1!) for RDP access. Check the licensing box, then click Review + Create to deploy the VM. Once created, confirm it is running under the Virtual Machines tab, and copy its Public IP Address for the RDP connection. Using Remote Desktop, log into the VM with the credentials you set, then download the osTicket-Installation-Files.zip inside the VM and unzip it to your desktop. The extracted folder, osTicket-Installation-Files, will be used for installing osTicket and its dependencies.<p>
